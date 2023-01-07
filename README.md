@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything related to **php/laravel/api/mysql/html/css/Javascript/vuejs**
 
-- ⚡ Fun fact **All shooter, survival and battle royale games**
+- ⚡ Fun fact **All shooter, survival and battle royale games <a href="https://steamcommunity.com/id/M9eBaH/" target="blank">Steam</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
