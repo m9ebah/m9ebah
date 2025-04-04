@@ -1,11 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm M9eBaH  
-A passionate Full Stack Developer from Saudi Arabia  
-I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; 
-I've been into software engineering, and my excitement keeps growing.
-I love trying out new tech tools 💻 and using them to create cool things 🛠️
-Let's connect and code something awesome together! 🚀</h1>
+<h1 align="center">Hi 👋, I'm Nawaf Al-Sharif, a passionate Full Stack Developer from Saudi Arabia. I love exploring new tech 💻 and building awesome projects 🚀. <br>Let's connect and create something amazing!</h1>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=m9ebah&label=Profile%20views&color=0e75b6&style=flat" alt="nawaf" /> 
