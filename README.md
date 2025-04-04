@@ -40,7 +40,7 @@ Let's connect and code something awesome together! 🚀</h1>
 
 - 💬 Feel free to ask me about **my work or tech stack**
 
-- 📄 Know about [my experiences](https://linkedin.com/in/dz9)
+- 📄 Know about [my experiences](https://devhubo.com)
 
 - 😄 Pronouns: **He/His**
 
