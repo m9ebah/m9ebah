@@ -1,27 +1,128 @@
-<h1 align="center">Hi 👋, I'm M9eBaH</h1>
-<h3 align="center">Full Stack developer from Saudi Arabia</h3>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m9ebah&label=Profile%20views&color=0e75b6&style=flat" alt="m9ebah" /> </p>
+<h1 align="center">Hi 👋, I'm M9eBaH  
+A passionate Full Stack Developer from Saudi Arabia  
+I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; 
+I've been into software engineering, and my excitement keeps growing.
+I love trying out new tech tools 💻 and using them to create cool things 🛠️
+Let's connect and code something awesome together! 🚀</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m9ebah" alt="m9ebah" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dh9_9" target="blank"><img src="https://img.shields.io/twitter/follow/dh9_9?logo=twitter&style=for-the-badge" alt="dh9_9" /></a> </p>
-
-- 💬 Ask me about anything related to **php/laravel/api/mysql/html/css/Javascript/vuejs**
-
-- ⚡ Fun fact **All shooter, survival and battle royale games <a href="https://steamcommunity.com/id/M9eBaH/" target="blank">Steam</a>**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dh9_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dh9_9" height="30" width="40" /></a>
-<a href="https://instagram.com/dh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dh9" height="30" width="40" /></a>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=m9ebah&label=Profile%20views&color=0e75b6&style=flat" alt="nawaf" /> 
+ <img alt="Profile followers" src="https://img.shields.io/github/followers/m9ebah">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=php" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m9ebah&show_icons=true&locale=en&layout=compact" alt="m9ebah" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m9ebah&show_icons=true&locale=en" alt="m9ebah" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" alt="icon" width="50" height="50" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m9ebah&" alt="m9ebah" /></p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m Currently Preparing For **Full Stack Development**
+
+- 🌱 I’m currently learning more about PHP, Laravel, and **API integration**
+
+- 💬 Feel free to ask me about **my work or tech stack**
+
+- 📄 Know about [my experiences](https://linkedin.com/in/dz9)
+
+- 😄 Pronouns: **He/His**
+
+
+<br>
+<h3 align="left">🌐Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dz9/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="dz9" width="80" /></a>
+<a href="https://x.com/Dh9_9" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%23000000?logo=x&logoColor=white" alt="Dh9_9" width="80" /></a>
+ <a href="https://www.instagram.com/dh9/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Dh9" width="80" /></a>
+</p>
+
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">💻Languages and Tools:</h3>
+
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js"  alt="Frontend"/>
+  </a>
+</p>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,python"  alt="Backend"/>
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql"  alt="Database"/>
+  </a>
+</p>
+
+- Libraries & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind,jquery"  alt="Frameworks"/>
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,firebase"  alt="Cloud Servers"/>
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,phpstorm,vscode,linux"  alt="Tools"/>
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Stats">
+
+
+<!-- </details> -->
+
+
+<h3 align="left">📊GitHub Stats:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=m9ebah&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" width="45%" style="display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=m9ebah&theme=nightowl&hide_border=false" width="49%" style="display:inline;">
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m9ebah&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="40%" style="display:inline;" alt="">
+
+<br><br>
+
+
+
+
+<br><br>
+
+<p align="right"> Created with ❤️ by <a href="https://www.linkedin.com/in/dz9/">nawaf alshreef</a></p>
